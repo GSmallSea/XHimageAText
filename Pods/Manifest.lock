@@ -1,0 +1,15 @@
+PODS:
+  - MJExtension (3.0.13)
+  - RegexKitLite (4.0)
+
+DEPENDENCIES:
+  - MJExtension
+  - RegexKitLite
+
+SPEC CHECKSUMS:
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  RegexKitLite: c0e4c12e6e7de0769f3a3ed679f0f61604170661
+
+PODFILE CHECKSUM: b99aa17b5afad82eb2c9601b8570a0114a826976
+
+COCOAPODS: 1.0.1
